@@ -28,7 +28,7 @@ venv\Scripts\activate.bat
 ```
 
 ```
-pip install -r requirements.txt --user
+pip install -r requirements.txt
 ```
 
 ```
