@@ -15,8 +15,6 @@ pip install -r requirements.txt --user
 #### First Time
 Go to root folder 
 
-Create empty directory "model"
-
 ```
 pip install virtualenv
 ```
