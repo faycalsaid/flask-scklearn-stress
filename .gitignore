@@ -128,7 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-model/model_TIPI1.pkl
 model/model_TIPI2.pkl
 model/model_TIPI3.pkl
 model/model_TIPI4.pkl
