@@ -39,7 +39,7 @@ python main.py <port>
 Go to root folder 
 
 ```
-Scripts\activate.bat 
+venv\Scripts\activate.bat 
 ```
 
 ```

@@ -21,8 +21,6 @@ app = Flask(__name__)
 training_data = 'data/data.csv'
 
 model_directory = 'model'
-model_file_name_tipi_1 = '%s/model_tipi_1.pkl' % model_directory
-model_file_name_tipi_4 = '%s/model_tipi_4.pkl' % model_directory
 
 # These will be populated at training time
 rfc = None
